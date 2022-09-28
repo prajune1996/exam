@@ -71,6 +71,7 @@ a {
 
 .board_row {
   display: flex;
+  width: 800px;
 }
 
 .row_naming {
